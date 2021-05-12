@@ -279,6 +279,7 @@ p {
 /* OUR STORY PAGE */
 .our-story {
   text-align: center;
+  position: relative;
 }
 .our-story p {
   font-size: 25px;
@@ -320,6 +321,7 @@ p {
   text-align: center;
   background-color: lightblue;
   padding: 1em;
+  position: relative;
 }
 
 .footer img {
