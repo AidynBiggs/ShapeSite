@@ -9,7 +9,7 @@ html body {
   font-family: "Montserrat", sans-serif;
 }
 :root {
-  --background: rgba(88, 81, 187, 0.85);
+  --background: rgba(134, 134, 134, 0.85);
 }
 
 *,
@@ -181,7 +181,7 @@ nav a:hover {
   nav a:hover::before {
     transform: scale(1, 1);
   }
-}
+} /* SMALL SCREEN END */
 .services-drop {
   position: absolute;
   display: flex;
@@ -238,7 +238,7 @@ p {
   width: 23%;
   background-color: white;
   border: 1px solid black;
-  box-shadow: 5px 5px 20px 8px rgb(83, 83, 224);
+  box-shadow: 0px 5px 20px 10px rgb(87, 87, 87);
   clear: both;
 }
 .topimage {
